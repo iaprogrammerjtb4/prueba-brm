@@ -1,0 +1,7 @@
+Hacer un sistema de autenticación que tenga roles para el control de ingreso a un aplicativo por módulos.
+ 
+Hacer un API REST con Laravel que tenga control de la información por roles. En este se debe evidenciar el CRUD, se puede utilizar Mysql o Mongodb. 
+Hacer un front-end en donde se haga consumo del API REST, el acceso mediante un formulario y que tenga mínimo dos módulos para probar el ingreso de dos roles y el CRUD. Para el diseño se puede utilizar un framework como bootstrap.  
+Utilizar Docker compose para el proyecto.
+Crear la documentación para desplegar y utilizar el desarrollo. 
+Subir el proyecto a Git y compartir url.  
